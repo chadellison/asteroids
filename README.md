@@ -4,7 +4,7 @@ This is a remake of the classic 1979 game Asteroids. The game includes features 
 
 [deployed here](http://asteroids123.herokuapp.com/)
 
-[aseroids]((https://raw.githubusercontent.com/chadellison/asteroids/master/public/asteroids.gif))
+[aseroids](https://raw.githubusercontent.com/chadellison/asteroids/master/public/asteroids.gif)
 
 To install the dependencies:
 
