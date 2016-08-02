@@ -1,5 +1,11 @@
 # Game Time Starter Kit
 
+This is a remake of the classic 1979 game Asteroids. The game includes features such as enemy spaceships that shoot at you and buffs that gice you different weapons or extra lives. This app uses HTML canvas and JavaScript with a node server. Some of the challenges of this project included relearning trigonometry to draw the ship and rotate it.
+
+[deployed here](http://asteroids123.herokuapp.com/)
+
+[aseroids]((https://raw.githubusercontent.com/chadellison/asteroids/master/public/asteroids.gif))
+
 To install the dependencies:
 
 ```
